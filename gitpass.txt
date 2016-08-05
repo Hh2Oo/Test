@@ -1,0 +1,19 @@
+1.cd desktop
+
+2.cd taobao
+
+3.git clone https://github.com/Hh2Oo/Test.git
+
+4.git init
+
+5.cd get_test
+
+6.git config --global user.name 'Hh2Oo'
+
+7.git config --global user.email '15217063497@163.com'
+
+8.git add .
+
+9.git commit -m 'index1.html'
+
+10.git push
